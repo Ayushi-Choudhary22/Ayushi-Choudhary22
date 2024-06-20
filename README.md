@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-choudhary22&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-choudhary22" /> </p>
 
-- 🌱 I’m currently learning: **Frontend Web Development and DSA.**
+- 🌱 I’m currently learning: **Competitive Programming and DSA.**
 
 - 💬 Ask me about : **C,C++,html**
 
