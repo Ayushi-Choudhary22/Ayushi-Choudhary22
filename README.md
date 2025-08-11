@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-choudhary22&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-choudhary22" /> </p>
 
-- 🌱 I’m currently learning: **Competitive Programming and DSA.**
+- 🌱 I’m currently learning: **Web Development.**
 
-- 💬 Ask me about : **C,C++,html**
+- 💬 Ask me about : **C,C++,python,Web development**
 
 - 📫 How to reach me : **ayushichoudhary261@gmail.com**
 
