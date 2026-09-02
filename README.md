@@ -22,7 +22,7 @@
 
 * 🚀 Interested in building **practical web applications** and improving my development skills.
 
-* 🌍 Open Source Contributor | **GirlScript Summer of Code 2026**
+* 🌍 Open Source Contributor | **GirlScript Summer of Code 2024**
 
 * 🏆 Amazon ML Challenge 2025 — **AIR 60**
 
