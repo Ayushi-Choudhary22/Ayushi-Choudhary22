@@ -79,18 +79,4 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi-choudhary22&show_icons=true&locale=en&layout=compact" alt="ayushi-choudhary22" />
-</p>
-
-<br clear="both"/>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushi-choudhary22&show_icons=true&locale=en" alt="ayushi-choudhary22" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-choudhary22" alt="ayushi-choudhary22" />
-</p>
