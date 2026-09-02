@@ -24,6 +24,8 @@
 
 * 🌍 Open Source Contributor | **GirlScript Summer of Code 2024**
 
+* 🚀 Smart India Hackathon **Finalist** 2025
+
 * 🏆 Amazon ML Challenge 2025 — **AIR 60**
 
 * 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, React, Node, MongoDB, Express, Git & GitHub**.
