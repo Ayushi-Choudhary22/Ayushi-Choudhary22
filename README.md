@@ -320,7 +320,6 @@ Learning:
   - Advanced Data Structures & Algorithms
   - Full-Stack Development
   - Backend Engineering
-  - TypeScript
   - Scalable REST APIs
 
 Building:
@@ -328,12 +327,6 @@ Building:
   - React / Next.js Interfaces
   - Backend APIs
   - Practical Software Products
-
-Exploring:
-  - Generative AI
-  - AI-powered Applications
-  - Cloud & Deployment
-  - Open Source
 
 Open To:
   - Full-Stack Development
