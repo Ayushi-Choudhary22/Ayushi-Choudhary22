@@ -55,22 +55,22 @@ I'm a **B.Tech Computer Science & Engineering student at JECRC University** focu
 
 My development experience spans the **MERN stack**, React.js, Next.js, REST APIs, authentication, databases, and responsive UI development. I enjoy turning real-world requirements into structured applications with clean frontend-backend communication and reliable data flows.
 
-I also actively practice **Data Structures & Algorithms in C++**, with a focus on understanding problem-solving patterns and writing efficient solutions.
+I actively practice **Data Structures & Algorithms in C++**, focusing on understanding problem-solving patterns and writing efficient solutions.
 
-My exposure to **AI/ML** includes participation in the **Amazon ML Challenge 2025**, where my team achieved **AIR 60 among 84,000+ participants**, giving me practical exposure to multimodal ML concepts and model-based problem solving.
+I have worked on practical full-stack applications involving **hospital management, police inventory management, and pet adoption and care**, giving me experience with both frontend and backend development.
 
-I have also contributed to open source through **GirlScript Summer of Code 2024** and participated in the **Smart India Hackathon National Finals**.
+I also enjoy contributing to collaborative projects and open source, including participation in **GirlScript Summer of Code 2024** and the **Smart India Hackathon National Finals**.
 
 </p>
 
 ### Open To
 
-- 💻 Full-Stack Development
-- 🌐 Frontend / Backend Development
-- 🧩 Software Development Roles
-- 🌱 Open Source Contributions
-- 🤝 Collaborative Engineering Projects
-- 🚀 Building practical products and developer-focused solutions
+* 💻 Full-Stack Development
+* 🌐 Frontend / Backend Development
+* 🧩 Software Development Roles
+* 🌱 Open Source Contributions
+* 🤝 Collaborative Engineering Projects
+* 🚀 Building practical products and developer-focused solutions
 
 ---
 
@@ -102,18 +102,18 @@ I have also contributed to open source through **GirlScript Summer of Code 2024*
 
 ---
 
-## AI / ML Expertise
+## Problem Solving & Development
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Exposure | Participated in Amazon ML Challenge 2025 |
-| Multimodal AI | Exposure | Worked around image + text based ML concepts through the competition |
-| Generative AI | Working Knowledge | Integrated Gemini API into a web application |
-| LLM Applications | Working Knowledge | Explored AI-assisted application functionality and prompt-based workflows |
-| Model Evaluation | Exposure | Competition exposure to prediction and evaluation workflows |
-| AI Product Integration | Working Knowledge | Experience connecting AI capabilities with full-stack applications |
-
-> My primary engineering focus is **full-stack development and problem solving**, with AI/ML as an area of practical exposure and exploration.
+| Area                             | Focus                | Details                                                                |
+| -------------------------------- | -------------------- | ---------------------------------------------------------------------- |
+| **Data Structures & Algorithms** | Strong Focus         | Regularly practicing DSA problems using C++                            |
+| **Problem Solving**              | Core Strength        | Focused on understanding patterns, logic and efficient solutions       |
+| **Full-Stack Development**       | Practical Experience | Building applications using React, Node.js, Express and MongoDB        |
+| **Frontend Development**         | Practical Experience | Responsive and component-based interfaces using React.js and Next.js   |
+| **Backend Development**          | Practical Experience | REST APIs, CRUD operations, middleware and authentication workflows    |
+| **Database Management**          | Practical Experience | MongoDB, MongoDB Atlas, Mongoose and Firebase                          |
+| **API Development**              | Practical Experience | REST API design, integration and testing with Postman                  |
+| **Software Projects**            | Hands-On             | Building real-world applications focused on solving practical problems |
 
 ---
 
@@ -126,26 +126,26 @@ I have also contributed to open source through **GirlScript Summer of Code 2024*
 
 A full-stack hospital management platform designed to simplify patient, doctor, receptionist, queue, appointment, and hospital-resource workflows.
 
-| Category | Details |
-|---|---|
-| **Stack** | React.js, Vite, Node.js, Express.js, MongoDB Atlas, Mongoose |
-| **Scale** | Multi-module hospital management application |
-| **Performance** | REST-based data access with reusable React components |
-| **Security** | Authentication, protected workflows and backend validation |
-| **Impact** | Digitizes hospital workflows including queues, patients, doctors, beds and tests |
-| **Repository** | [MediMitra](https://github.com/Ayushi-Choudhary22/MediMitra) |
+| Category        | Details                                                                          |
+| --------------- | -------------------------------------------------------------------------------- |
+| **Stack**       | React.js, Vite, Node.js, Express.js, MongoDB Atlas, Mongoose                     |
+| **Scale**       | Multi-module hospital management application                                     |
+| **Performance** | REST-based data access with reusable React components                            |
+| **Security**    | Authentication, protected workflows and backend validation                       |
+| **Impact**      | Digitizes hospital workflows including queues, patients, doctors, beds and tests |
+| **Repository**  | [MediMitra](https://github.com/Ayushi-Choudhary22/MediMitra)                     |
 
 ### Engineering Scope
 
-- Developed responsive React-based interfaces for hospital workflows.
-- Built REST APIs using Node.js and Express.js.
-- Integrated MongoDB Atlas for persistent application data.
-- Implemented patient, doctor and receptionist workflows.
-- Added doctor specialization and queue-management functionality.
-- Integrated QR-based patient history access.
-- Worked with hospital resources including beds, tests and X-ray workflows.
-- Integrated AI-assisted functionality using Gemini API.
-- Implemented Razorpay-based payment functionality.
+* Developed responsive React-based interfaces for hospital workflows.
+* Built REST APIs using Node.js and Express.js.
+* Integrated MongoDB Atlas for persistent application data.
+* Implemented patient, doctor and receptionist workflows.
+* Added doctor specialization and queue-management functionality.
+* Integrated QR-based patient history access.
+* Worked with hospital resources including beds, tests and X-ray workflows.
+* Integrated AI-assisted functionality using Gemini API.
+* Implemented Razorpay-based payment functionality.
 
 </details>
 
@@ -158,27 +158,27 @@ A full-stack hospital management platform designed to simplify patient, doctor, 
 
 A Smart India Hackathon project focused on improving inventory management and resource distribution between police departments and stations.
 
-| Category | Details |
-|---|---|
-| **Stack** | MERN, MongoDB Atlas, Firebase Authentication, Axios |
-| **Scale** | Department → GP Store → Police Station inventory workflow |
-| **Performance** | CRUD-based inventory operations with structured API communication |
-| **Security** | Firebase Authentication and role-based access workflows |
-| **Impact** | Digitizes inventory distribution, station requests and stock monitoring |
-| **Recognition** | Smart India Hackathon National Finalist |
-| **Repository** | [GitHub](https://github.com/Ayushi-Choudhary22) |
+| Category        | Details                                                                 |
+| --------------- | ----------------------------------------------------------------------- |
+| **Stack**       | MERN, MongoDB Atlas, Firebase Authentication, Axios                     |
+| **Scale**       | Department → GP Store → Police Station inventory workflow               |
+| **Performance** | CRUD-based inventory operations with structured API communication       |
+| **Security**    | Firebase Authentication and role-based access workflows                 |
+| **Impact**      | Digitizes inventory distribution, station requests and stock monitoring |
+| **Recognition** | Smart India Hackathon National Finalist                                 |
+| **Repository**  | [GitHub](https://github.com/Ayushi-Choudhary22)                         |
 
 ### Engineering Scope
 
-- Worked on the **GP Store inventory module**.
-- Implemented inventory CRUD workflows.
-- Built stock distribution functionality between department and stations.
-- Worked on station inventory and resource-request workflows.
-- Implemented Firebase authentication.
-- Developed UI indicators for stock levels.
-- Used Axios for frontend-backend communication.
-- Worked with MongoDB-based data models and structured application routes.
-- Collaborated with a team during the Smart India Hackathon National Finals.
+* Worked on the **GP Store inventory module**.
+* Implemented inventory CRUD workflows.
+* Built stock distribution functionality between department and stations.
+* Worked on station inventory and resource-request workflows.
+* Implemented Firebase authentication.
+* Developed UI indicators for stock levels.
+* Used Axios for frontend-backend communication.
+* Worked with MongoDB-based data models and structured application routes.
+* Collaborated with a team during the Smart India Hackathon National Finals.
 
 </details>
 
@@ -191,54 +191,51 @@ A Smart India Hackathon project focused on improving inventory management and re
 
 A full-stack community platform focused on pet adoption, fostering, caretakers and pet-care interactions.
 
-| Category | Details |
-|---|---|
-| **Stack** | MongoDB, Express.js, React.js, Node.js |
-| **Scale** | Full-stack community platform |
-| **Performance** | Component-based frontend with REST API communication |
-| **Security** | Backend validation and authentication workflows |
-| **Impact** | Brings pet adoption, fostering and caretaker interactions into one platform |
-| **Repository** | [Pawlx](https://github.com/Ayushi-Choudhary22/Pawlx) |
+| Category        | Details                                                                     |
+| --------------- | --------------------------------------------------------------------------- |
+| **Stack**       | MongoDB, Express.js, React.js, Node.js                                      |
+| **Scale**       | Full-stack community platform                                               |
+| **Performance** | Component-based frontend with REST API communication                        |
+| **Security**    | Backend validation and authentication workflows                             |
+| **Impact**      | Brings pet adoption, fostering and caretaker interactions into one platform |
+| **Repository**  | [Pawlx](https://github.com/Ayushi-Choudhary22/Pawlx)                        |
 
 ### Engineering Scope
 
-- Built full-stack functionality using the MERN stack.
-- Developed reusable React components.
-- Implemented backend APIs with Express.js and Node.js.
-- Integrated MongoDB for application data.
-- Worked on pet adoption and fostering workflows.
-- Developed functionality around caretaker and community interactions.
-- Focused on responsive and user-friendly application flows.
+* Built full-stack functionality using the MERN stack.
+* Developed reusable React components.
+* Implemented backend APIs with Express.js and Node.js.
+* Integrated MongoDB for application data.
+* Worked on pet adoption and fostering workflows.
+* Developed functionality around caretaker and community interactions.
+* Focused on responsive and user-friendly application flows.
 
 </details>
 
 <br>
 
 <details>
-<summary><b>🎟️ Evenza — University Events Platform</b></summary>
+<summary><b>🌿 Aushadhi — Smart India Hackathon Project</b></summary>
 
 <br>
 
-A university-focused events platform for discovering and organizing campus events, clubs and communities.
+A project developed as part of the Smart India Hackathon journey, representing an earlier iteration of the team's solution before the project evolved into the **Rakshak** implementation.
 
-| Category | Details |
-|---|---|
-| **Stack** | Next.js, React.js, JavaScript, Vercel |
-| **Scale** | University event discovery platform |
-| **Performance** | Dynamic routing and reusable component architecture |
-| **Security** | Structured frontend application workflows |
-| **Impact** | Simplifies discovery of live, upcoming and past university events |
-| **Features** | Event filtering, tags, clubs and communities |
+| Category        | Details                                          |
+| --------------- | ------------------------------------------------ |
+| **Context**     | Smart India Hackathon                            |
+| **Type**        | Team-based software project                      |
+| **Focus**       | Practical problem-solving through software       |
+| **Development** | Collaborative development and solution iteration |
+| **Outcome**     | Project evolved into the Rakshak solution        |
+| **Recognition** | Smart India Hackathon National Finalist          |
 
-### Engineering Scope
+### Project Scope
 
-- Developed responsive event-discovery interfaces.
-- Implemented dynamic routing.
-- Added filtering across multiple event categories.
-- Built reusable UI components.
-- Added event states including live, upcoming and past.
-- Worked on clubs and communities functionality.
-- Deployed the application using Vercel.
+* Worked collaboratively on the project as part of the SIH team.
+* Contributed to the development and refinement of the solution.
+* Adapted the project based on changing requirements and submission constraints.
+* Continued the solution's evolution into the **Rakshak** project.
 
 </details>
 
@@ -246,18 +243,18 @@ A university-focused events platform for discovering and organizing campus event
 
 ## Experience
 
-### Full-Stack Developer Intern — Pawlx
+### Full-Stack Developer — Pawlx
 
 **Sep 2025 – Feb 2026**
 
 Worked on a full-stack pet-care and adoption platform as part of a remote development project.
 
-- Developed and maintained MERN-based application features.
-- Worked across frontend and backend modules.
-- Built REST API integrations.
-- Implemented reusable React components and application workflows.
-- Worked with MongoDB for persistent data management.
-- Collaborated on product features related to pet adoption, fostering and caretakers.
+* Developed and maintained MERN-based application features.
+* Worked across frontend and backend modules.
+* Built REST API integrations.
+* Implemented reusable React components and application workflows.
+* Worked with MongoDB for persistent data management.
+* Collaborated on product features related to pet adoption, fostering and caretakers.
 
 **Skills:** `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `JavaScript` `Git`
 
@@ -267,13 +264,13 @@ Worked on a full-stack pet-care and adoption platform as part of a remote develo
 
 <p align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏆 **Amazon ML Challenge 2025** | **AIR 60** among **84,000+ participants** |
-| 🥇 **Smart India Hackathon** | National Finalist — Team Code_Blooded |
+| Recognition                           | Details                                      |
+| ------------------------------------- | -------------------------------------------- |
+| 🏆 **Amazon ML Challenge 2025**       | **AIR 60** among **84,000+ participants**    |
+| 🥇 **Smart India Hackathon**          | National Finalist — Team Code_Blooded        |
 | 🌐 **GirlScript Summer of Code 2024** | Open Source Contributor with **500+ points** |
-| ⭐ **Academic Performance** | **9.19 CGPA** at JECRC University |
-| 📬 **Postman API Fundamentals** | Postman API Fundamentals Student Expert |
+| ⭐ **Academic Performance**            | **9.19 CGPA** at JECRC University            |
+| 📬 **Postman API Fundamentals**       | Postman API Fundamentals Student Expert      |
 
 </p>
 
@@ -297,25 +294,6 @@ Worked on a full-stack pet-care and adoption platform as part of a remote develo
 
 <p>
   <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Virtual%20Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
-</p>
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/Ayushi-Choudhary/">
-    <img src="https://img.shields.io/badge/LeetCode-Ayushi%20Choudhary-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -385,3 +363,33 @@ Open To:
   - Software Development Opportunities
   - Open Source Collaboration
   - Engineering Projects
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:ayushichoudhary261@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ayushichoudhary261%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayushi-choudhary-3b7707285">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayushi-Choudhary22">
+    <img src="https://img.shields.io/badge/GitHub-Ayushi--Choudhary22-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayushi-Choudhary22">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Profile-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>“Build with curiosity. Solve with clarity. Ship with purpose.”</b>
+</p>
