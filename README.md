@@ -311,29 +311,7 @@ Worked on a full-stack pet-care and adoption platform as part of a remote develo
 
 ---
 
-## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayushi-Choudhary22&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi-Choudhary22&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushi-Choudhary22/Ayushi-Choudhary22/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ## Current Focus
 
